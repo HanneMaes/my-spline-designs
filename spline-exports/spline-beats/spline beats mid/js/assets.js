@@ -1,0 +1,1 @@
+var SPLINE_ASSETS_LIST = { fonts: ['raleway_regular'], images: [], models: [], animations: [] }
