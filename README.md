@@ -18,5 +18,5 @@ To tool to easily create and publish 3D web experiences.
   <a href="https://hannemaes.github.io/my-spline-designs/spline-exports/3d-icons/3D-Icons-low/index.html">3D Icons (Low)</a><br>
 
 # EtherMasks.com
-  <a href=""https://my.spline.design/ethermaskswebsite-032fd6fa28cfd07d3119a40a95dec636/">www.ethermasks.com</a>
+  <a href="https://my.spline.design/ethermaskswebsite-032fd6fa28cfd07d3119a40a95dec636/">www.ethermasks.com</a>
   <img src="img/ehtermasks.gif">
